@@ -112,6 +112,9 @@ table tbody tr:nth-child(even) {
         <h1>Drug Information Management System</h1>
     </header>
     <main>
+    <p>This is the first file in my new Git Repo.</p>
+<p>A new line in our file!</p>
+
         <section class="form-section">
             <h2>Add Drug Information</h2>
             <form id="drugForm">
