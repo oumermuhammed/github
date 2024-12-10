@@ -113,7 +113,8 @@ table tbody tr:nth-child(even) {
         <p>This is the first file in my new Git Repo.</p>
 <p>This line is here to show how merging works.</p>
 <!-- After emmergency fix-->
-    </header>
+Ok    
+</header>
     <main>
     <p>This is the first file in my new Git Repo.</p>
 <p>A new line in our file!</p>
