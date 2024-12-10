@@ -110,6 +110,9 @@ table tbody tr:nth-child(even) {
 <body>
     <header>
         <h1>Drug Information Management System</h1>
+        <p>This is the first file in my new Git Repo.</p>
+<p>This line is here to show how merging works.</p>
+<!-- After emmergency fix-->
     </header>
     <main>
     <p>This is the first file in my new Git Repo.</p>
