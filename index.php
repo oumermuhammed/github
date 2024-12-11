@@ -96,7 +96,6 @@ table tbody tr:nth-child(even) {
             <td>${recordCounter++}</td>
             <td>${drugName}</td>
             <td>${drugCategory}</td>
-            <td>${quantity}</td>
             <td>${price}</td>
         `;
 
