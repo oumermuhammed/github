@@ -108,6 +108,7 @@ table tbody tr:nth-child(even) {
             </script>
 </head>
 <body>
+    <h1> this line is added in the skeleton version.</h1>
     <header>
         <h1>Drug Information Management System</h1>
         <p>This is the first file in my new Git Repo.</p>
