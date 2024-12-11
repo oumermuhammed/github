@@ -118,6 +118,15 @@ Ok
     <main>
     <p>This is the first file in my new Git Repo.</p>
 <p>A new line in our file!</p>
+<p>
+Members
+1. <B>
+    A
+</B>
+1. <B>
+    B
+</B>
+</p>
 
         <section class="form-section">
             <h2>Add Drug Information</h2>
